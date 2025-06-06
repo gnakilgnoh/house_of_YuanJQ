@@ -1,0 +1,12 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+# 新增导航配置
+nav:
+  - 首页: index.md
+  - 主题文档:
+    - 主题一: theme1.md
+    - 主题二: theme2.md

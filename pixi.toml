@@ -1,0 +1,12 @@
+[project]
+authors = ["KLH <kl-hong@qq.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "house_of_kang"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mkdocs-material = ">=9.6.14,<10"
