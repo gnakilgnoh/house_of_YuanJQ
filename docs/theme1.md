@@ -10,4 +10,6 @@ icon: material/lightbulb
 
 ## 图片尺寸
 
+找不到素材了
+![d](./figs/微信图片_20250607120903.png)
 ![nanyuan](./figs/微信图片_20250607115122.jpg)
