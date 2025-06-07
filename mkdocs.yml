@@ -7,6 +7,6 @@ theme:
 # 新增导航配置
 nav:
   - 首页: index.md
-  - 主题文档:
-    - 主题一: theme1.md
-    - 主题二: theme2.md
+  - 相册:
+    - 主题: theme1.md
+    - 测试: theme2.md
