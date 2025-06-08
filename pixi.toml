@@ -10,3 +10,4 @@ version = "0.1.0"
 
 [dependencies]
 mkdocs-material = ">=9.6.14,<10"
+mkdocs-glightbox = ">=0.4.0,<0.5"

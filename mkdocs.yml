@@ -2,11 +2,23 @@ site_name: House of kang
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.tabs  # 顶部标签导航
 
-# 新增导航配置
+# 调整导航层级（关键修改）
 nav:
-  - 首页: index.md
-  - 相册:
-    - 毕业: theme1.md
-    - 🏸🏸🏸: theme2.md
+  - 主页: index.md          # 顶部标签项 1
+  - 工会据点:    
+    - 工会据点/a.md    # 顶部标签项 2（指向主页面）
+    - 毕业: theme1.md       # 左侧侧边栏子项（缩进 2 空格）
+    - 减重排行榜: theme2.md # 左侧侧边栏子项（缩进 2 空格）
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: true

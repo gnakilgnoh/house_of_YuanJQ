@@ -2,11 +2,10 @@
 icon: material/lightbulb
 ---
 
-# 记忆存留
+# 减重排行榜
 
-## 视频展示-第一次测试
+体重变化率公式：  
+$$
+\text{变化率} = \frac{\text{初始体重} - \text{当前体重}}{\text{初始体重}} \times 100\%
+$$
 
-<!-- 嵌入视频，controls 显示播放控件，width 设置宽度 -->
-<video controls width="800">
-  <source src="./video/bfe457fe00c8de2dfdebcaceefdd3c7d.mp4">
-</video>
