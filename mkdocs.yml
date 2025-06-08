@@ -28,6 +28,10 @@ nav:
     - 照片:
       - 毕业: gonghui/graduation.md
     - 排行榜: gonghui/rank.md
+  - 书影音:
+    - 书: shuyingyin/book.md
+    - 影: shuyingyin/video.md
+    - 音: shuyingyin/audio.md
 
 
 markdown_extensions:
