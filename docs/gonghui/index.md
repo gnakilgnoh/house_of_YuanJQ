@@ -4,6 +4,6 @@
 
 快速链接：
 
-1. [毕业](./graduation.md)
+1. [照片](./graduation.md)
 
 2. [排行榜](./rank.md)
