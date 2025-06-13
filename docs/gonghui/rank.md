@@ -8,6 +8,6 @@ icon: material/poll
 xychart-beta
     title "排行榜"
     x-axis " Name "[70, 47, +7]
-    y-axis " Reduce ( kg )" 0 --> 5
-    bar [4.6, 3.4, 2.6]
+    y-axis " Reduce ( kg )" 0 --> 9.9
+    bar [0.6, 4.6, 3.0]
 ```
