@@ -4,6 +4,8 @@
 
 快速链接：
 
-1. [照片](./picture_story.md)
+1. [图片故事](./picture_story.md)
 
 2. [排行榜](./rank.md)
+
+3. [日记](./diart.md)

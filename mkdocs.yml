@@ -46,11 +46,30 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  # 图片配置
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
+  # 同样是 图片配置
   - glightbox:
       touchNavigation: true
-      loop: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 60%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_themed: false
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
