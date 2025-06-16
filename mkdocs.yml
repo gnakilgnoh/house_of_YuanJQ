@@ -23,11 +23,11 @@ theme:
 # 调整导航层级（关键修改）
 nav:
   - 主页: index.md   
-  - 花园: 
-    - 花园: gonghui/index.md
-    - 照片:
-      - 毕业: gonghui/graduation.md
-    - 排行榜: gonghui/rank.md
+  - 互助会: 
+    - 互助会: mutual_aid_society/index.md
+    - 图片故事: mutual_aid_society/picture_story.md
+    - 排行榜: mutual_aid_society/rank.md
+    - 日记: mutual_aid_society/diary.md
   - 书影音:
     - 书: shuyingyin/book.md
     - 影: shuyingyin/video.md
